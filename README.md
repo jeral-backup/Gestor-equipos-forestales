@@ -39,7 +39,7 @@ Se propone una aplicación web tipo **SPA** (Single Page Application), que permi
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestor-equipos-forestales.git
+   git clone https://github.com/jeral-backup/gestor-equipos-forestales.git
    cd gestor-equipos-forestales
 2. instala dependencias
 npm install
