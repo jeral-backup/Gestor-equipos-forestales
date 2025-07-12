@@ -1,23 +1,23 @@
 # Vue 3 + Vite
 
-# 🌲 Gestor de Equipos Forestales
+#  Gestor de Equipos Forestales
 
 Aplicación web desarrollada como parte de la Evaluación N°4 de la asignatura *Programación Front End (TI2031)* de INACAP.
 
-## 📌 Problemática
+##  Problemática
 
 Las empresas forestales de la Región del Biobío enfrentan dificultades para llevar un registro ordenado de su maquinaria (como tractores, motosierras y drones), lo que puede provocar pérdidas, mal uso de los recursos y problemas en la gestión de mantenciones. Actualmente, muchos registros se hacen manualmente o con herramientas poco eficientes.
 
-## ✅ Solución Propuesta
+##  Solución Propuesta
 
 Se propone una aplicación web tipo **SPA** (Single Page Application), que permita registrar, modificar, eliminar y visualizar los equipos forestales en operación, usando tecnologías modernas de frontend. Además, se incorporan datos del clima de la región mediante una API pública.
 
 ### Tecnologías usadas:
-- ⚙️ Vue 3 + Vite
-- 🗃️ localStorage (persistencia local)
-- 🌐 API pública: [Open-Meteo](https://open-meteo.com/)
+-  Vue 3 + Vite
+-  localStorage (persistencia local)
+-  API pública: [Open-Meteo](https://open-meteo.com/)
 
-## 🧩 Funcionalidades
+##  Funcionalidades
 
 - Agregar nuevos equipos con tipo, estado y fecha de adquisición.
 - Editar o eliminar equipos registrados.
@@ -25,7 +25,7 @@ Se propone una aplicación web tipo **SPA** (Single Page Application), que permi
 - Consultar el clima actual en la región del Biobío mediante una API externa.
 - Aplicación modular con componentes personalizados.
 
-## 🗂️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 /src
 ├── components
@@ -35,7 +35,7 @@ Se propone una aplicación web tipo **SPA** (Single Page Application), que permi
 ├── App.vue
 └── main.js
 
-## 🚀 Instrucciones de uso
+##  Instrucciones de uso
 
 1. Clona este repositorio:
    ```bash
